@@ -12,7 +12,7 @@ cd oc-amd-patcher-cli
 chmod +x oc_amd_patch_auto.py
 ```
 
-Make sure Python 3.7+ is installed:
+###Make sure Python 3.7+ is installed
 ---
 
 ## Usage
